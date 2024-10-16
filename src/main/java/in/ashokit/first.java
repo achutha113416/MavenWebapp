@@ -20,7 +20,3 @@ this is core java programming
 
   this is .net programming.
 
-  //
-
-  hello i am a java programmer
-
